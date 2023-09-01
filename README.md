@@ -1,1 +1,1 @@
-# amazon
+Amazon clone using HTML & CSS
